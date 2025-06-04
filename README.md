@@ -6,7 +6,7 @@ A interface exibe o número do Pokémon, seu nome e imagem, tudo isso sobre um f
 
 ## 📸 Capturas de Tela
 
-![Pokédex - Pikachu](https://github.com/Daniel64017/Projeto-Pokedex/blob/main/Captura%20de%20tela%202025-03-27%20224914.png?raw=true)
+![Pokédex - Pikachu](https://github.com/Daniel64017/Projeto-Pokedex/blob/749e0321807fbcdbd18f4bdd51c65bec6777846e/Imagem%20-%20Pikachu)
 
 ## 🌐 API Utilizada
 
